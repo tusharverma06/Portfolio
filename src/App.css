@@ -1,38 +1,119 @@
-.App {
-  text-align: center;
+
+@font-face {
+  font-family: Satoshi;
+  src: url('satoshi.css');
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body, html{
+  margin: 0;
+  padding: 0;
+  display: block;
+  position: relative;
+  background-color: black;
+  font-family: Satoshi;
+  color: black;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.center{
+  max-width: 390px;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  overflow: hidden;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.center p{
+  color: #333A43;
+  font-size: 32px;
+  font-weight: 800;
+}
+.center p .profession{
   color: white;
+  font-size: 32px;
+  font-weight: 800;
+
+}
+.center .hi{
+  font-weight: 800;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+.center p a{
+  text-decoration: none;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+color: rgb(81, 191, 235);
+animation-delay: 0ms;
+}
+.build{
+  width: 100%;
+  margin-top: 3rem;
+  color: rgba(255, 255, 255, 0.333);
+  margin-bottom: 3rem;
+}
+.build a{
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+font-weight: 600;
+}
+.anime{
+  background-color: #333A43;
+  padding: 5px;
+overflow-x: hidden;
+overflow-y: hidden;
+height: 42px;
+width: 100%;
+position: relative;
+left: 0px;
+}
+.anime p{
+  width:100%;
+  padding-top: 10px;
+  padding-left: 0;
+  margin:0 auto;
+  font-size: 16px;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+.anime .first{
+ 
+  color:rgba(255, 255, 255, 0.303);
+  font-size: 16px;
+  display:inline-block;
+  animation: marquee 10s linear infinite;
+}
+.anime .second{
+  color:rgba(255, 255, 255, 0.303);
+  font-size: 16px;
+  display:inline-block;
+  animation: marquee 10s linear infinite;
 }
 
-.App-link {
-  color: #61dafb;
+
+.socials{
+  max-width: 100%;
+  margin: auto;
+  color: #3d444d;
+  margin-top: 4rem;
+}
+.socials a{
+  color: rgba(255, 255, 255, 0.456);
+}
+.socials ul{
+  padding-left: 10%;
+  line-height: 2rem;
+}
+hr{
+  border: 0.2px solid rgba(255, 255, 255, 0.237);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+
+@keyframes marquee {
+  0%{
+transform: translateX(0%);    
   }
-  to {
-    transform: rotate(360deg);
+  100%{
+    
+    transform: translateX(-100%);
   }
 }
