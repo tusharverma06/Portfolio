@@ -21,8 +21,8 @@ function App() {
          </div>
   <div className="build">
     {/* <h2 className="Build-Heading">Builds</h2> */}
-     <a href='https://essay-generator-abc.onrender.com/' target={'_blank'}>✢ GPT-3 Essay Generator</a>&nbsp;<br />
-    generate ready-to-submit essays in just a few clicks.<br /><br />
+     <a href='https://ai-avatar-starter-fawn.vercel.app/' target={'_blank'}>✢ Image Craft</a>&nbsp;<br />
+    Turn me to any character with your own prompts.<br /><br />
    <a href='https://SkyScan.tusharverma13.repl.co' target={'_blank'}>✢ SkyScan</a><br />
 get the latest weather conditions anywhere, anytime.<br /><br />
    <a href='https://Split-It.tusharverma13.repl.co' target={'_blank'}>✢ Split-It</a><br />
