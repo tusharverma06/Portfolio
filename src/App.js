@@ -20,9 +20,8 @@ function App() {
  
          </div>
   <div className="build">
-    {/* <h2 className="Build-Heading">Builds</h2> */}
-<a href='https://reading-mood-six.vercel.app/' target={'_blank'}>✢ readingmood</a>&nbsp;<br />
-    your one stop shop for finding the perfect tunes to accompany your reading and set the mood!.<br /><br />
+{/*<a href='https://reading-mood-six.vercel.app/' target={'_blank'}>✢ readingmood</a>&nbsp;<br />
+    your one stop shop for finding the perfect tunes to accompany your reading and set the mood!.<br /><br />*/}
      <a href='https://ai-avatar-starter-fawn.vercel.app/' target={'_blank'}>✢ Image Craft</a>&nbsp;<br />
     turn me into any character with your own prompts.<br /><br />
    <a href='https://SkyScan.tusharverma13.repl.co' target={'_blank'}>✢ SkyScan</a><br />
