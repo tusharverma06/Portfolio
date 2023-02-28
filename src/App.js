@@ -22,6 +22,8 @@ function App() {
   <div className="build">
 {/*<a href='https://reading-mood-six.vercel.app/' target={'_blank'}>✢ readingmood</a>&nbsp;<br />
     your one stop shop for finding the perfect tunes to accompany your reading and set the mood!.<br /><br />*/}
+<a href='https://aimaheshwari.vercel.app/' target={'_blank'}>✢ AI Maheshwari</a>&nbsp;<br />
+    get motivated and reach your goals with AI.<br /><br />
  <a href='https://textutils-mu.vercel.app/' target={'_blank'}>✢ Text Utils</a>&nbsp;<br />
     manipulate your text in the way you want.<br /><br />
      <a href='https://ai-avatar-starter-fawn.vercel.app/' target={'_blank'}>✢ Image Craft</a>&nbsp;<br />
