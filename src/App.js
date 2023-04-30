@@ -22,7 +22,8 @@ function App() {
   <div className="build">
 {/*<a href='https://reading-mood-six.vercel.app/' target={'_blank'}>✢ readingmood</a>&nbsp;<br />
     your one stop shop for finding the perfect tunes to accompany your reading and set the mood!.<br /><br />*/}
-
+<a href='https://insaight.onrender.com/' target={'_blank'}>✢ insAIght</a>&nbsp;<br />
+    get instant feedback for your website/side-project.<br /><br />
 <a href='https://paintai.tusharverma13.repl.co/' target={'_blank'}>✢ PaintAI</a>&nbsp;<br />
     get unique painting ideas for your next art project.<br /><br />
 <a href='https://aimaheshwari.vercel.app/' target={'_blank'}>✢ AI Maheshwari</a>&nbsp;<br />
