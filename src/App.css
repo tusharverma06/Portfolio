@@ -3,6 +3,7 @@
   font-family: 'satoshi';
   src: url('satoshi.css');
 } */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 body, html{
   margin: 0;
@@ -10,7 +11,7 @@ body, html{
   display: block;
   position: relative;
   background-color: black;
-  font-family: 'satoshi';
+font-family: 'Poppins', sans-serif;
   color: black;
 }
 
