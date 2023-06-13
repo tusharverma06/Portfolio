@@ -5,7 +5,7 @@ function App() {
  <>
  <div className="center">
   <p><span className='hi'>Hey! I'm Tushar.</span>
-  <span></span> <br /><span className='profession'>Frontend developer, 16.</span>
+  <span></span> <br /><span className='profession'>A Frontend developer .</span>
   <br />Currently exploring AI.
   {/* Connect with me on <a href='https://twitter.com/tusharrvrma'>Twitter</a> */}
   </p>
