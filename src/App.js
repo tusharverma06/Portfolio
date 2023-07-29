@@ -26,7 +26,7 @@ function App() {
     get instant feedback for your website/side-project.<br /><br />
 <a href='https://paintai.tusharverma13.repl.co/' target={'_blank'}>✢ PaintAI</a>&nbsp;<br />
     get unique painting ideas for your next art project.<br /><br />
-<a href='https://aimaheshwari.vercel.app/' target={'_blank'}>✢ AI Maheshwari</a>&nbsp;<br />
+<a href='https://ai-maheshwari.tusharverma13.repl.co' target={'_blank'}>✢ AI Maheshwari</a>&nbsp;<br />
     get motivated and reach your goals with AI.<br /><br />
  <a href='https://textutils-mu.vercel.app/' target={'_blank'}>✢ Text Utils</a>&nbsp;<br />
     manipulate your text in the way you want.<br /><br />
